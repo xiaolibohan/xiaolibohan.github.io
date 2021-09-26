@@ -1,7 +1,7 @@
 # Basic
 title: libohan
 subtitle: 欢迎来到我的个人网站
-description: 生活
+description: 生活 科技 区块链
 # 头像里面的标题
 avatarTitle: libohan
 # 头像里面的描述
@@ -10,9 +10,9 @@ url: "www.yangmaodang.xyz"
 
 # Comment
 comment:
-    provider: duoshuo
+    provider: beihai
     duoshuo:
-    short_name: robotkang
+    short_name: lbh
 
 # Social
 social:
