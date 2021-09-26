@@ -1,12 +1,12 @@
 # Basic
-title: Robotkang
+title: libohan
 subtitle: 欢迎来到我的个人网站
-description: 科技、生活、音乐、人生
+description: 生活
 # 头像里面的标题
-avatarTitle: RobotKang
+avatarTitle: libohan
 # 头像里面的描述
-avatarDesc: 机器人赛事
-url: "https://robotkang.cc"
+avatarDesc:  区块链
+url: "www.yangmaodang.xyz"
 
 # Comment
 comment:
@@ -17,11 +17,11 @@ comment:
 # Social
 social:
     weibo: 123456789
-    weixing: kang1390305137 
-    github: MengZheK
+    weixing: xiaolibohan
+    github: xiaolibohan
     # twitter: 
-    mail: robotkang@foxmail.com
-    csdn: robotkang
+    mail: 1234@foxmail.com
+    csdn: 12334
 
 
 # 《----------------- 上面的信息修改成你自己的 ---------------------------》
